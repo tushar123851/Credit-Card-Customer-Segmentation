@@ -677,11 +677,9 @@ The developed segmentation model enables financial institutions to:
 
 ## 📊 Correlation Heatmap
 
-> Replace with your image
-
-```text
-images/correlation_heatmap.png
-```
+<p align="center">
+  <img src="images/correlation_heatmap.png" alt="Correlation Heatmap" width="900">
+</p>
 
 ---
 
@@ -725,13 +723,11 @@ images/dbscan_clusters.png
 
 ---
 
-## 📊 Algorithm Comparison
+## 🏆 Algorithm Performance Comparison
 
-> Replace with your image
-
-```text
-images/algorithm_comparison.png
-```
+<p align="center">
+  <img src="images/algorithm_comparison.png" alt="Algorithm Comparison" width="800">
+</p>
 
 ---
 
